@@ -1,0 +1,18 @@
+# ninja log v5
+36	1027	7383644131220997	CMakeFiles/DataStructuresAndAlgorithms.dir/ParkingLot.cpp.obj	c4f9a0514596b805
+5	874	7383644129706485	CMakeFiles/DataStructuresAndAlgorithms.dir/main.cpp.obj	5904a6180bb20a9b
+32	354	7383644124521197	CMakeFiles/DataStructuresAndAlgorithms.dir/ParkingSpace.cpp.obj	79c1cd8775e7f0f
+1027	1222	7383644133158054	DataStructuresAndAlgorithms.exe	c81822fc3316b5fa
+28	352	7383644124501147	CMakeFiles/DataStructuresAndAlgorithms.dir/Car.cpp.obj	9867f42b4da79046
+7	248	7383674092004425	build.ninja	5903ee43d95bc260
+7	340	7383674092004425	build.ninja	5903ee43d95bc260
+26	341	7383674096038188	CMakeFiles/DataStructuresAndAlgorithms.dir/ParkingSpace.cpp.obj	79c1cd8775e7f0f
+22	934	7383674101950937	CMakeFiles/DataStructuresAndAlgorithms.dir/main.cpp.obj	5904a6180bb20a9b
+30	1103	7383674103638554	CMakeFiles/DataStructuresAndAlgorithms.dir/ParkingLot.cpp.obj	c4f9a0514596b805
+1104	1280	7383674105393858	DataStructuresAndAlgorithms.exe	c81822fc3316b5fa
+12	865	7383675385829590	CMakeFiles/DataStructuresAndAlgorithms.dir/main.cpp.obj	5904a6180bb20a9b
+865	1033	7383675387478165	DataStructuresAndAlgorithms.exe	c81822fc3316b5fa
+9	856	7383675489645507	CMakeFiles/DataStructuresAndAlgorithms.dir/main.cpp.obj	5904a6180bb20a9b
+856	1018	7383675491228032	DataStructuresAndAlgorithms.exe	c81822fc3316b5fa
+10	810	7383682030679622	CMakeFiles/DataStructuresAndAlgorithms.dir/main.cpp.obj	5904a6180bb20a9b
+810	967	7383682032228095	DataStructuresAndAlgorithms.exe	c81822fc3316b5fa
